@@ -2,7 +2,7 @@
 
 # Juan Fernando Portilla Collazos
 
-**Desarrollador de Software Full-Stack** · Ingeniería de Sistemas (8.º semestre) — Universidad del Cauca
+**Desarrollador de Software Full-Stack** · Ingeniería de Sistemas — Universidad del Cauca
 
 <p>
   <a href="https://bootstrapportfolio-sable.vercel.app/">
@@ -22,12 +22,18 @@
 
 ### Sobre mí
 
-Desarrollo aplicaciones web empresariales y sistemas integrados con hardware real, enfocado en **arquitecturas limpias, código mantenible y despliegue automatizado**.
+Soy desarrollador de software Full-Stack y estudiante de **Ingeniería de Sistemas en la Universidad del Cauca (Popayán, Colombia)**. Me enfoco en construir sistemas que resuelven problemas operativos reales — desde plataformas empresariales de gestión y agendamiento clínico hasta software automotriz integrado directamente con el hardware de un vehículo.
 
-- **Backend & Arquitectura:** Diseño de APIs y sistemas modulares con **Java 21 (Spring Boot / Spring Modulith)** y **C# (.NET 10)** aplicando Arquitectura Hexagonal, Clean Architecture / DDD, CQRS y eventos de dominio.
-- **Frontend:** Interfaces web modernas y progresivas (PWA / SPA) con **Angular, TypeScript, Blazor WebAssembly y React**.
-- **Hardware & Nativo:** Desarrollo Android en **Kotlin** con comunicación directa hacia hardware automotriz (**OBD-II Bluetooth BLE/SPP**, **TPMS USB-Serial 433 MHz** y **Audio DSP**).
-- **Liderazgo & DevOps:** Coordinación de equipos en **Scrum / Jira**, contenedorización con **Docker Compose**, pipelines **CI/CD en GitHub Actions** y pruebas automatizadas (**JUnit 5, Testcontainers, xUnit, OWASP ZAP**).
+Más allá de escribir código, me importa cómo se diseña, prueba y mantiene un producto en el tiempo. En los proyectos en equipo suelo asumir responsabilidad en **arquitectura, liderazgo técnico, flujos DevOps y organización ágil**, asegurándome de que cada entrega sea limpia, trazable y lista para producción. Me adapto con facilidad a distintos ecosistemas y lenguajes según lo que requiera cada proyecto.
+
+#### En qué trabajo y qué aporto
+- **Backend y Arquitectura de Software:** Diseño de servicios y APIs con **Java 21 (Spring Boot 3 / Spring Modulith)** y **C# (.NET 10)**, aplicando **Arquitectura Hexagonal, Clean Architecture / DDD, CQRS (`MediatR`), GraphQL (`HotChocolate`), comunicación en tiempo real (`SignalR`)** y eventos de dominio desacoplados.
+- **Desarrollo Web Frontend:** Construcción de interfaces limpias, responsivas y progresivas (**PWA / SPA**) con **Angular, TypeScript, Blazor WebAssembly, React, Tailwind CSS y Bootstrap**, partiendo de prototipos bien estructurados en **Figma**.
+- **Bases de Datos Relacionales:** Modelado estricto, consultas optimizadas, migraciones versionadas (**Flyway / Entity Framework Core**) y control de integridad con **PostgreSQL, Oracle Database y MySQL**.
+- **Integración con Hardware y Nativo:** Desarrollo Android en **Kotlin** acoplado a interfaces web aceleradas por hardware (`@JavascriptInterface`), integrando telemetría vehicular **OBD-II (Bluetooth BLE/SPP)**, lectura de sensores **TPMS vía USB-Serial (433.92 MHz)** y procesamiento de audio **DSP nativo**.
+- **Calidad, DevOps y Trabajo en Equipo:** Contenedorización multi-entorno con **Docker y Docker Compose**, pipelines **CI/CD en GitHub Actions** (incluyendo entregas OTA), pruebas automatizadas (**JUnit 5, Testcontainers, xUnit, Vitest**), análisis de seguridad (**OWASP ZAP**), modelado **C4** y gestión bajo **Scrum / Jira / Gitflow**.
+
+> Abierto a oportunidades laborales en desarrollo **Full-Stack / Backend** (remoto o híbrido) donde pueda aportar criterio técnico, compromiso y aprendizaje continuo dentro de un equipo de ingeniería.
 
 ---
 
